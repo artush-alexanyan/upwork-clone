@@ -1,0 +1,53 @@
+/* COLORS */
+
+.text-primary{
+  color: rgb(20,168,0) !important;
+}
+.btn-outline-primary{
+  border-color: rgb(20,168,0);
+  color: rgb(20,168,0);
+}
+.btn.btn-primary{
+  background-color: rgb(20,168,0);
+  border-color: rgb(20,168,0);
+}
+
+html{
+  box-sizing: border-box;
+}
+
+.logo_1{
+  height: 1.5rem;
+}
+
+.nav-link{
+  font-family: "Neue Montreal", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: 600;
+  color: #5e6d55;
+}
+.nav-link:hover{
+  color: rgb(20,168,0) !important;
+}
+.nav-item{
+  padding-right: 1rem;
+}
+.arrow_image{
+  height: 0.5rem;
+}
+
+.intro_hedline{
+  font-family: Rza, Rza-fallback;
+  font-size: 80px;
+  line-height: 80px;
+  font-weight: 500;
+}
+
+.intro_paragraph{
+  font-family: "Neue Montreal", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: rgb(94, 109, 85);
+}
