@@ -1,0 +1,37 @@
+
+.intro_hedline{
+  font-family: Rza, Rza-fallback;
+  font-size: 80px;
+  line-height: 80px;
+  font-weight: 500;
+}
+
+.intro_paragraph{
+  font-family: "Neue Montreal", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: rgb(94, 109, 85);
+}
+.h1_headline{
+  font-family: Rza, serif;
+  font-size: 56px;
+  line-height: 54px;
+  color: rgb(0, 30, 0);
+  font-weight: 500;
+  letter-spacing: -.035em;
+  margin-top: 1.5rem;
+}
+.brows_jobs{
+  font-family: "Neue Montreal", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18px;
+  color: rgb(94, 109, 85);
+}
+.find_talent_headline{
+  font-family: "Neue Montreal", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 36px;
+}
