@@ -1,0 +1,47 @@
+/* COLORS */
+
+.bg-dark{
+  background-color: rgb(29,67,84) !important;
+}
+.bg-secondary{
+  background-color: #2B5468 !important;
+}
+.bg-light{
+  background-color: rgb(241,242,244) !important;
+}
+html, body{
+  background-color: rgb(241,242,244);
+}
+
+/* NABBAR SECTION */
+
+.logo-2{
+  height: 1.25rem;
+}
+.form-control::placeholder{
+  color: white;
+  padding-left: 1rem;
+  font-size: 14px;
+  font-family: "Neue Montreal", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 400;   
+}
+.nav-link{
+  color: white !important;
+  font-family: "Neue Montreal", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 21.4286px;
+}
+.nav-link img{
+  height: 1.5rem;
+}
+.avatar{
+  padding: 1.3rem;
+  background-image: url("/images/avatar.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* PROPOSAL SETTINGS SECTION */
+
