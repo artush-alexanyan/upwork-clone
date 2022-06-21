@@ -35,3 +35,23 @@
   font-weight: 500;
   line-height: 36px;
 }
+
+
+.submit_proposal{
+  font-family: "Neue Montreal", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 32px; 
+}
+.span_paragraph{
+  font-family: "Neue Montreal", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.section_header{
+  font-family: "Neue Montreal", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 28px;  
+}

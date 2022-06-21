@@ -1,16 +1,13 @@
-/* COLORS */
+@import url("/css/typos.css");
+@import url("/css/colors.css");
 
-.bg-dark{
-  background-color: rgb(29,67,84) !important;
-}
-.bg-secondary{
-  background-color: #2B5468 !important;
-}
-.bg-light{
-  background-color: rgb(241,242,244) !important;
-}
 html, body{
   background-color: rgb(241,242,244);
+}
+@media (min-width: 1400px) {
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1470px;
+  }
 }
 
 /* NABBAR SECTION */
@@ -45,3 +42,6 @@ html, body{
 
 /* PROPOSAL SETTINGS SECTION */
 
+.question_green{
+  height: 0.9rem;
+}

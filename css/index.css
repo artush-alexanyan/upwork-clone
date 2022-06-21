@@ -1,23 +1,5 @@
 @import url("typos.css");
-
-/* COLORS */
-
-.text-primary{
-  color: rgb(20,168,0) !important;
-}
-.btn-outline-primary{
-  border-color: rgb(20,168,0);
-  color: rgb(20,168,0);
-}
-.btn.btn-primary{
-  background-color: rgb(20,168,0);
-  border-color: rgb(20,168,0);
-}
-.bg-primary{
-  background-color: rgb(20,168,0) !important;
-}
-
-/* ------------------------------------------------------------ */
+@import url("/css/colors.css");
 
 html{
   box-sizing: border-box;
